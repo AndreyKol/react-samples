@@ -1,0 +1,8 @@
+{
+  "generator-react-webpack": {
+    "appName": "plainReact2",
+    "style": "sass",
+    "postcss": true,
+    "generatedWithVersion": 3
+  }
+}

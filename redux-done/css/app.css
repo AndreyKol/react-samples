@@ -1,0 +1,21 @@
+.text {
+  font-size: 2rem;
+  line-height: 1.5;
+  color: #FF0000;
+}
+
+table{
+  width:500px;
+}
+
+td{
+  border: 1px solid grey;
+}
+
+.padding-left-10{
+  padding-left: 10px;
+}
+
+.inline-button{
+  margin-left: 20px;
+}
